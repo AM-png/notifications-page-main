@@ -69,7 +69,7 @@ img {
 }
 
 .group {
-    color: #1d2d53;
+    color: #385393;
 }
 
 span {
@@ -93,5 +93,5 @@ aside:hover {
 
 .markAll:hover,
 strong:hover {
-    color: #385393;
+    color: darkblue;
 }
