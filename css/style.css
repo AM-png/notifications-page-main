@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: gray;
+}
+
+body {
+    padding: 1rem;
+    margin: 0 auto;
+    background: #f9fafe;
+}
+
+main {
+    padding: 1rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 10px #f6f7fb;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: large;
+    color: black;
+}
+
+span {
+    color: #d6ebf9;
+    padding: 0 8px;
+    background: #0c317a;
+    border-radius: 5px;
+}
