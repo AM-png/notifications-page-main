@@ -72,11 +72,11 @@ aside {
     border-radius: 10px;
 }
 
-aside:active {
+aside:hover {
     background: #e5eff9;
 }
 
-.markAll:active,
-strong:active {
+.markAll:hover,
+strong:hover {
     color: #385393;
 }
